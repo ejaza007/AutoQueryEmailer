@@ -1,0 +1,2 @@
+select 141000
+select top 5 * from production.products order by list_price desc 152805
