@@ -1,4 +1,4 @@
-# DataRoutines
+# Automated Database Query and Email Manager
 
 A secure database query and email manager, specifically designed for automating routine queries and emailing data to recipients.
 
