@@ -55,17 +55,5 @@ A secure database query and email manager, specifically designed for automating 
 - `LogManager.py`: Manages logging activities.
 - `encryption.py`: Handles encryption and decryption of credentials.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries or issues, please contact [your-email@example.com](mailto:your-email@example.com).
-
 
 
